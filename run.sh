@@ -1,0 +1,1 @@
+../spark-1.2.1-bin-hadoop2.4/bin/spark-submit --class com.sparky.spark.demo.JavaDemo --master spark://127.0.0.1:7077 target/com.simppler-1.0-SNAPSHOT-jar-with-dependencies.jar spark://127.0.0.1:7077 127.0.0.1
